@@ -9,7 +9,7 @@ Uma joalheria online tem a intenção de implementar um sistema de gerenciamento
 
 O modelo conceitual representa a estrutura geral do sistema, identificando as principais entidades, seus atributos e seus relacionamentos.
 
-![Modelo Conceitual](https://github.com/laricoutinho/Banco-de-dados-Joalheria/blob/a943591faa886b0e8213059d45ec9bec1ca9c5d4/modeloconceitual.png)
+![Modelo Conceitual](https://github.com/LarissaCoutinhoo/Banco-Joalheria/blob/main/modeloconceitual.png)
 
 
 # Modelo Lógico:
